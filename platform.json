@@ -287,7 +287,7 @@
     "framework-arduino-silabs": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/SiliconLabs/arduino/archive/refs/tags/3.0.0.zip"
+      "version": "http://pavel.works/storage/framework-arduino-silabs.zip"
     }
   }
 }
