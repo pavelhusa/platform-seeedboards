@@ -123,7 +123,7 @@ env.Append(
         ("F_CPU", board.get("build.f_cpu")),
         ("ARDUINO", 10607),
         "ARDUINO_ARCH_SILABS",
-        ("ARDUINO_SILABS", '\"2-3-0\"'),
+        ("ARDUINO_SILABS", '\"3-0-0\"'),
         "ARDUINO_XIAO_MG24",
         "ARDUINO_ARCH_SILABS",
         ("NUM_LEDS", 1),
